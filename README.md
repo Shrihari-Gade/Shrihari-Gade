@@ -85,20 +85,6 @@ A backend application for managing employee records and organizational informati
 
 ---
 
-### 3. Expense Tracker Application
-
-**Java | Spring Boot | MySQL | REST APIs**
-
-An application designed to manage and track daily expenses.
-
-- Developed expense management functionality.
-- Implemented CRUD operations for expense records.
-- Added user authentication functionality.
-- Organized expenses into categories such as Food, Travel, Shopping, Bills, and Others.
-- Integrated MySQL for persistent data storage.
-
----
-
 ## 🧠 Core Computer Science Knowledge
 
 - Object-Oriented Programming (OOP)
